@@ -7,8 +7,14 @@
 </head>
 <body>
     <h1>Mi lista de tareas</h1>
-    <p>Lista de actividades pendientes.</p>
 
+    <form id="formTarea">
+        <label for="nuevaTarea">Nueva tarea:</label>
+        <input id="nuevaTarea" type="text" placeholder="Escribe una tarea">
+        <button type="submit">Agregar</button>
+    </form>
+
+    <p id="mensaje" aria-live="polite"></p>
     <ul id="listaTareas"></ul>
 
     <script src="app.js"></script>
