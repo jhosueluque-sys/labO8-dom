@@ -59,5 +59,5 @@
 | Prueba | Dato ingresado | Resultado obtenido |
 |---|---|---|
 | Correo inválido | `holamundo` | Debe mostrarse el mensaje de error en rojo. |
-| Correo válido | `alumno@gmail.com` | Debe mostrarse el mensaje **Enviado**. |
+| Correo válido | `jhosue.luque@tecsup.edu.pe` | Debe mostrarse el mensaje **Enviado**. |
 
