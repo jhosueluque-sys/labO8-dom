@@ -60,4 +60,3 @@
 |---|---|---|
 | Correo inválido | `holamundo` | Debe mostrarse el mensaje de error en rojo. |
 | Correo válido | `jhosue.luque@tecsup.edu.pe` | Debe mostrarse el mensaje **Enviado**. |
-
