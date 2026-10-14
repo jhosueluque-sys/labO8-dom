@@ -61,25 +61,3 @@
 | Correo inválido | `holamundo` | Debe mostrarse el mensaje de error en rojo. |
 | Correo válido | `alumno@gmail.com` | Debe mostrarse el mensaje **Enviado**. |
 
-### Evidencias
-
-**1. Mensaje de error con un correo inválido**
-
-Pega aquí la captura donde se visualiza el mensaje de error en rojo al ingresar `holamundo`.
-
-**2. Mensaje de envío con un correo válido**
-
-Pega aquí la captura donde se visualiza el mensaje **Enviado** al ingresar `alumno@gmail.com`.
-
-## Observaciones generales
-
-Durante el laboratorio se practicó la manipulación de elementos HTML desde JavaScript, el uso de eventos y el trabajo con formularios. También se revisó cómo organizar datos mediante objetos y cómo realizar operaciones para calcular los importes de un carrito de compras.
-
-Las pruebas permitieron identificar la importancia de verificar el funcionamiento del código y corregir los errores que aparecen durante su ejecución.
-
-## Conclusiones
-
-- Aprendí a utilizar JavaScript para modificar elementos de una página web y responder a las acciones del usuario.
-- Comprendí cómo funcionan los eventos, los formularios y las validaciones de datos.
-- Practiqué el uso de objetos y operaciones para representar productos y calcular los totales de un carrito de compras.
-- Comprobé que realizar pruebas con diferentes datos ayuda a detectar errores y verificar el comportamiento del programa.
